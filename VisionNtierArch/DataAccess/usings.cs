@@ -1,0 +1,11 @@
+﻿global using DataAccess.EfCore;
+global using DataAccess.Repositories.Abstract;
+global using DataAccess.Repositories.Concrete;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Entities.Concrete;
+global using Core.DataAccess.Repositories.Concrete.EfCore;
+global using Core.Entities.Concrete.Auth;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using DataAccess.UnitOfWork.Abstract;

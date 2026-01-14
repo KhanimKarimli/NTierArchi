@@ -1,0 +1,9 @@
+﻿global using Entities.DTOs.Products;
+global using AutoMapper;
+global using Business.Services.Abstract;
+global using Business.Utilities.Constants;
+global using Core.Utilities.Exceptions;
+global using DataAccess.UnitOfWork.Abstract;
+global using Entities.Concrete;
+global using System.Reflection;
+
