@@ -6,4 +6,4 @@ global using Core.Utilities.Exceptions;
 global using DataAccess.UnitOfWork.Abstract;
 global using Entities.Concrete;
 global using System.Reflection;
-
+global using FluentValidation;

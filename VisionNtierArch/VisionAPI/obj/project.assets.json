@@ -4481,11 +4481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\VisionAPI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\VisionAPI.csproj",
       "projectName": "VisionAPI",
-      "projectPath": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\VisionAPI.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\VisionAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4507,8 +4507,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Business.csproj"
+            "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Business.csproj"
             }
           }
         }

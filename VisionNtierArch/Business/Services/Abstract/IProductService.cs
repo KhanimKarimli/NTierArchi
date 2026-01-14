@@ -8,5 +8,6 @@ namespace Business.Services.Abstract
         public Task<GetProductDto> GetProductById(Guid id);
         public Task AddProduct(CreateProductDto dto);
         public Task DeleteProductById(Guid id);
+        public Task UpdateProduct(Guid id,UpdateProductDto dto);
     }
 }

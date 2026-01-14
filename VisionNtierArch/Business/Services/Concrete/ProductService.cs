@@ -48,5 +48,19 @@ namespace Business.Services.Concrete
 		}
 
 
+        public async Task UpdateProduct(Guid id, UpdateProductDto dto)
+        {
+			var product = await _unitOfWork.ProductRepository.GetAsync(p => p.Id==id);
+			if (product==null)
+			{
+				throw new NotFoundException(ExceptionMessages.ProductNotFound);
+			}
+			product.Name = dto.Name==null ? product.Name : dto.Name;
+			product.Description = dto.Description==null ? product.Description : dto.Description;
+			product.Price = dto.Price==null ? product.Price : dto.Price;
+			product.UpdatedAt = DateTime.UtcNow;
+			_unitOfWork.ProductRepository.Update(product);
+			await _unitOfWork.SaveAsync();
+		}
     }
 }

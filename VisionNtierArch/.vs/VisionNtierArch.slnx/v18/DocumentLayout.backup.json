@@ -1,153 +1,169 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\VisionNtierArch\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\visionntierarch\\business\\services\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\visionntierarch\\business\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\visionntierarch\\business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\visionntierarch\\business\\validators\\products\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\validators\\products\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\visionntierarch\\business\\utilities\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\utilities\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\visionntierarch\\business\\utilities\\constants\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\utilities\\constants\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\visionntierarch\\business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\utilities\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\utilities\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\entities\\concrete\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\entities\\abstract\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\abstract\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\dataaccess\\repositories\\concrete\\efcore\\efbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\repositories\\concrete\\efcore\\efbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\dataaccess\\repositories\\abstract\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\repositories\\abstract\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\efcore\\visiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\efcore\\visiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\repositories\\concrete\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\concrete\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\repositories\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\unitofwork\\concrete\\efcore\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\unitofwork\\concrete\\efcore\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\visionntierarch\\visionapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\visionapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|solutionrelative:visionapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\visionntierarch\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\visionntierarch\\visionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|solutionrelative:visionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\visionntierarch\\visionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|solutionrelative:visionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\visionntierarch\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\visionntierarch\\visionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\visionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|solutionrelative:visionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\visionntierarch\\entities\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\visionapi\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|solutionrelative:visionapi\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\visionntierarch\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\dataaccess\\repositories\\concrete\\efcore\\efbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\repositories\\concrete\\efcore\\efbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\visionntierarch\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\dataaccess\\repositories\\abstract\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\repositories\\abstract\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\visionntierarch\\entities\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\services\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\validators\\products\\updateproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\validators\\products\\updateproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\validators\\products\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\validators\\products\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\entities\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\products\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\visionapi\\visionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|solutionrelative:visionapi\\visionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\entities\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\products\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\visionntierarch\\entities\\dtos\\products\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\utilities\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\utilities\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\utilities\\constants\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\utilities\\constants\\exceptionmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\utilities\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\utilities\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\entities\\concrete\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\entities\\abstract\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\abstract\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\efcore\\visiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\efcore\\visiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\repositories\\concrete\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\concrete\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\repositories\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\unitofwork\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\unitofwork\\concrete\\efcore\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\unitofwork\\concrete\\efcore\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\visionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|solutionrelative:visionapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\visionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{500BFE3D-BD04-7E32-92AE-1DF1F8CC7F3D}|VisionAPI\\VisionAPI.csproj|solutionrelative:visionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\entities\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\entities\\dtos\\products\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\products\\getallproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\visionntierarch\\entities\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\entities\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\visionntierarch\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\migrations\\20260113091627_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\migrations\\20260113091627_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20260113091627_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\visionntierarch\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\ntierarchi\\visionntierarch\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -158,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -182,72 +198,154 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "usings.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\usings.cs",
-              "RelativeDocumentMoniker": "Business\\usings.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\usings.cs",
-              "RelativeToolTip": "Business\\usings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\usings.cs",
+              "RelativeDocumentMoniker": "VisionAPI\\usings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\usings.cs*",
+              "RelativeToolTip": "VisionAPI\\usings.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T10:45:22.404Z"
+              "WhenOpened": "2026-01-14T12:13:43.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Services\\Concrete\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Services\\Concrete\\ProductService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\Concrete\\ProductService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Services\\Concrete\\ProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Services\\Concrete\\ProductService.cs",
               "RelativeToolTip": "Business\\Services\\Concrete\\ProductService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T11:53:40.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExceptionMessages.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Utilities\\Constants\\ExceptionMessages.cs",
-              "RelativeDocumentMoniker": "Business\\Utilities\\Constants\\ExceptionMessages.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Utilities\\Constants\\ExceptionMessages.cs",
-              "RelativeToolTip": "Business\\Utilities\\Constants\\ExceptionMessages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "usings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\usings.cs",
+              "RelativeDocumentMoniker": "Business\\usings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\usings.cs*",
+              "RelativeToolTip": "Business\\usings.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:50:57.036Z"
+              "WhenOpened": "2026-01-14T10:45:22.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Utilities\\Profiles\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "Business\\Utilities\\Profiles\\ProductProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Utilities\\Profiles\\ProductProfile.cs",
-              "RelativeToolTip": "Business\\Utilities\\Profiles\\ProductProfile.cs",
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\DataAccess\\Repositories\\Abstract\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\Repositories\\Abstract\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\DataAccess\\Repositories\\Abstract\\IBaseRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\Repositories\\Abstract\\IBaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T12:18:02.979Z"
+              "WhenOpened": "2026-01-09T10:52:50.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CreateProductDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Validators\\Products\\CreateProductDtoValidator.cs",
-              "RelativeDocumentMoniker": "Business\\Validators\\Products\\CreateProductDtoValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Validators\\Products\\CreateProductDtoValidator.cs",
-              "RelativeToolTip": "Business\\Validators\\Products\\CreateProductDtoValidator.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "EfBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\DataAccess\\Repositories\\Concrete\\EfCore\\EfBaseRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\Repositories\\Concrete\\EfCore\\EfBaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\DataAccess\\Repositories\\Concrete\\EfCore\\EfBaseRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\Repositories\\Concrete\\EfCore\\EfBaseRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T10:23:18.373Z"
+              "WhenOpened": "2026-01-09T10:53:21.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "VisionAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "VisionAPI\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:32:55.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VisionAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\Program.cs*",
+              "RelativeToolTip": "VisionAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:36:22.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Validators\\Products\\UpdateProductDtoValidator.cs",
+              "RelativeDocumentMoniker": "Business\\Validators\\Products\\UpdateProductDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Validators\\Products\\UpdateProductDtoValidator.cs*",
+              "RelativeToolTip": "Business\\Validators\\Products\\UpdateProductDtoValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:10:17.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProductDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Validators\\Products\\CreateProductDtoValidator.cs",
+              "RelativeDocumentMoniker": "Business\\Validators\\Products\\CreateProductDtoValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Validators\\Products\\CreateProductDtoValidator.cs",
+              "RelativeToolTip": "Business\\Validators\\Products\\CreateProductDtoValidator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:23:18.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\DTOs\\Products\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\Products\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\DTOs\\Products\\UpdateProductDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\Products\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T12:06:27.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VisionAPI",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\VisionAPI.csproj",
+              "RelativeDocumentMoniker": "VisionAPI\\VisionAPI.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\VisionAPI.csproj",
+              "RelativeToolTip": "VisionAPI\\VisionAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T12:07:35.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ConfigurationService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\ConfigurationService.cs",
               "RelativeDocumentMoniker": "Business\\ConfigurationService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\ConfigurationService.cs",
               "RelativeToolTip": "Business\\ConfigurationService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,23 +353,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Services\\Abstract\\IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Services\\Abstract\\IProductService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Services\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Services\\Abstract\\IProductService.cs",
               "RelativeToolTip": "Business\\Services\\Abstract\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T11:53:30.159Z"
+              "WhenOpened": "2026-01-12T11:53:30.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\DTOs\\Products\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\Products\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\DTOs\\Products\\CreateProductDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\Products\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:18:45.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Utilities\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Business\\Utilities\\Profiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Utilities\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "Business\\Utilities\\Profiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:18:02.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExceptionMessages.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Utilities\\Constants\\ExceptionMessages.cs",
+              "RelativeDocumentMoniker": "Business\\Utilities\\Constants\\ExceptionMessages.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Utilities\\Constants\\ExceptionMessages.cs",
+              "RelativeToolTip": "Business\\Utilities\\Constants\\ExceptionMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:50:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Utilities\\Exceptions\\NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Utilities\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Core\\Utilities\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Utilities\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Utilities\\Exceptions\\NotFoundException.cs",
               "RelativeToolTip": "Core\\Utilities\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,11 +415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "usings.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\usings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\usings.cs",
               "RelativeDocumentMoniker": "Core\\usings.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\usings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\usings.cs",
               "RelativeToolTip": "Core\\usings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,11 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Entities\\Concrete\\Auth\\AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Entities\\Concrete\\Auth\\AppUser.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\Auth\\AppUser.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Entities\\Concrete\\Auth\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Entities\\Concrete\\Auth\\AppUser.cs",
               "RelativeToolTip": "Core\\Entities\\Concrete\\Auth\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -303,11 +439,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Entities\\Abstract\\IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Entities\\Abstract\\IEntity.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Abstract\\IEntity.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Entities\\Abstract\\IEntity.cs",
               "RelativeToolTip": "Core\\Entities\\Abstract\\IEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -315,11 +451,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "IDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Entities\\Abstract\\IDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Entities\\Abstract\\IDto.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Abstract\\IDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Entities\\Abstract\\IDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Entities\\Abstract\\IDto.cs",
               "RelativeToolTip": "Core\\Entities\\Abstract\\IDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,23 +463,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EfBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\DataAccess\\Repositories\\Concrete\\EfCore\\EfBaseRepository.cs",
-              "RelativeDocumentMoniker": "Core\\DataAccess\\Repositories\\Concrete\\EfCore\\EfBaseRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\DataAccess\\Repositories\\Concrete\\EfCore\\EfBaseRepository.cs",
-              "RelativeToolTip": "Core\\DataAccess\\Repositories\\Concrete\\EfCore\\EfBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T10:53:21.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "ConfigurationService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\ConfigurationService.cs",
               "RelativeDocumentMoniker": "Core\\ConfigurationService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\ConfigurationService.cs",
               "RelativeToolTip": "Core\\ConfigurationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -351,23 +475,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\DataAccess\\Repositories\\Abstract\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "Core\\DataAccess\\Repositories\\Abstract\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\DataAccess\\Repositories\\Abstract\\IBaseRepository.cs",
-              "RelativeToolTip": "Core\\DataAccess\\Repositories\\Abstract\\IBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T10:52:50.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "EfProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\Repositories\\Concrete\\EfProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\Repositories\\Concrete\\EfProductRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\Concrete\\EfProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\Repositories\\Concrete\\EfProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\Repositories\\Concrete\\EfProductRepository.cs",
               "RelativeToolTip": "DataAccess\\Repositories\\Concrete\\EfProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -375,11 +487,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\Repositories\\Abstract\\IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\Repositories\\Abstract\\IProductRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\Abstract\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\Repositories\\Abstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\Repositories\\Abstract\\IProductRepository.cs",
               "RelativeToolTip": "DataAccess\\Repositories\\Abstract\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,11 +499,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "DataAccess\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
               "RelativeToolTip": "DataAccess\\UnitOfWork\\Abstract\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,11 +511,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "usings.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\usings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\usings.cs",
               "RelativeDocumentMoniker": "DataAccess\\usings.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\usings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\usings.cs",
               "RelativeToolTip": "DataAccess\\usings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,11 +523,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\UnitOfWork\\Concrete\\EfCore\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\UnitOfWork\\Concrete\\EfCore\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "DataAccess\\UnitOfWork\\Concrete\\EfCore\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\UnitOfWork\\Concrete\\EfCore\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\UnitOfWork\\Concrete\\EfCore\\UnitOfWork.cs",
               "RelativeToolTip": "DataAccess\\UnitOfWork\\Concrete\\EfCore\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,11 +535,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "VisionDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\EfCore\\VisionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\EfCore\\VisionDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\EfCore\\VisionDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\EfCore\\VisionDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\EfCore\\VisionDbContext.cs",
               "RelativeToolTip": "DataAccess\\EfCore\\VisionDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,11 +547,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "ConfigurationService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\ConfigurationService.cs",
               "RelativeDocumentMoniker": "DataAccess\\ConfigurationService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\ConfigurationService.cs",
               "RelativeToolTip": "DataAccess\\ConfigurationService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -447,35 +559,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Core.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Core.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Core\\Core.csproj",
               "RelativeToolTip": "Core\\Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-09T10:40:28.706Z"
+              "WhenOpened": "2026-01-09T10:40:28.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "VisionAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "VisionAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T12:32:55.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "VisionAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "VisionAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -483,35 +584,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Business.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Business.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Business.csproj",
               "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Business\\Business.csproj",
               "RelativeToolTip": "Business\\Business.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-12T12:15:20.683Z"
+              "WhenOpened": "2026-01-12T12:15:20.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\Program.cs",
-              "RelativeDocumentMoniker": "VisionAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\Program.cs",
-              "RelativeToolTip": "VisionAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T12:36:22.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\appsettings.json",
               "RelativeDocumentMoniker": "VisionAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\VisionAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\VisionAPI\\appsettings.json",
               "RelativeToolTip": "VisionAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -519,11 +609,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "usings.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\usings.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\usings.cs",
               "RelativeDocumentMoniker": "Entities\\usings.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\usings.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\usings.cs",
               "RelativeToolTip": "Entities\\usings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -531,11 +621,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Entities\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,11 +633,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\Concrete\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\Concrete\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Concrete\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\Concrete\\Product.cs",
               "RelativeToolTip": "Entities\\Concrete\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -555,23 +645,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\DTOs\\Products\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\Products\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\DTOs\\Products\\CreateProductDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\Products\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T12:18:45.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "GetAllProductsDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\DTOs\\Products\\GetAllProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\DTOs\\Products\\GetAllProductsDto.cs",
               "RelativeDocumentMoniker": "Entities\\DTOs\\Products\\GetAllProductsDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\DTOs\\Products\\GetAllProductsDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\DTOs\\Products\\GetAllProductsDto.cs",
               "RelativeToolTip": "Entities\\DTOs\\Products\\GetAllProductsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -579,11 +657,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "GetProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\DTOs\\Products\\GetProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\DTOs\\Products\\GetProductDto.cs",
               "RelativeDocumentMoniker": "Entities\\DTOs\\Products\\GetProductDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\DTOs\\Products\\GetProductDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\DTOs\\Products\\GetProductDto.cs",
               "RelativeToolTip": "Entities\\DTOs\\Products\\GetProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -591,23 +669,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "Entities.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\Entities.csproj",
               "RelativeDocumentMoniker": "Entities\\Entities.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\Entities\\Entities.csproj",
               "RelativeToolTip": "Entities\\Entities.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-09T10:47:29.476Z"
+              "WhenOpened": "2026-01-09T10:47:29.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "20260113091627_start.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\Migrations\\20260113091627_start.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\Migrations\\20260113091627_start.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20260113091627_start.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\Migrations\\20260113091627_start.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\Migrations\\20260113091627_start.cs",
               "RelativeToolTip": "DataAccess\\Migrations\\20260113091627_start.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -615,15 +694,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\VisionNtierArch\\DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\NTierArchi\\VisionNtierArch\\DataAccess\\DataAccess.csproj",
               "RelativeToolTip": "DataAccess\\DataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-12T12:06:36.191Z"
+              "WhenOpened": "2026-01-12T12:06:36.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

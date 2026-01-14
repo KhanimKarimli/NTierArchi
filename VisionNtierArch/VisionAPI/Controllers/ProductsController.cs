@@ -1,8 +1,4 @@
-﻿using Business.Services.Abstract;
-using Entities.DTOs.Products;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-
+﻿
 namespace VisionAPI.Controllers
 {
     [Route("api/[controller]/[action]")]
@@ -35,6 +31,13 @@ namespace VisionAPI.Controllers
         public async Task<IActionResult> DeleteProduct(Guid id)
         {
             _service.DeleteProductById(id);
+            return Ok();
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> UpdateProduct(Guid id, UpdateProductDto dto)
+        {
+           await _service.UpdateProduct(id, dto);
             return Ok();
         }
     }
