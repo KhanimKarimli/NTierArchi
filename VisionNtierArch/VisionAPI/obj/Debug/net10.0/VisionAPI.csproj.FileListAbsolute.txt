@@ -293,7 +293,6 @@ C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\Flu
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\Humanizer.dll
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\Microsoft.Build.dll
@@ -443,7 +442,6 @@ C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\Vis
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.AssemblyInfo.cs
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.sourcelink.json
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
@@ -462,3 +460,6 @@ C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\ref
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.pdb
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.genruntimeconfig.cache
 C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\ref\VisionAPI.dll
+C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\obj\Debug\net10.0\VisionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\NTierArchi\VisionNtierArch\VisionAPI\bin\Debug\net10.0\VisionAPI.staticwebassets.runtime.json

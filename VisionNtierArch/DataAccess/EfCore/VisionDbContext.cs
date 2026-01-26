@@ -8,6 +8,5 @@ namespace DataAccess.EfCore
         {
         }
 		public DbSet<Product> Products { get; set; }
-
 	}
 }

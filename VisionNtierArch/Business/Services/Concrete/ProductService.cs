@@ -1,4 +1,7 @@
 ﻿
+using Core.Utilities.Results.Abstract;
+using Core.Utilities.Results.Concrete;
+
 namespace Business.Services.Concrete
 {
     public class ProductService : IProductService
@@ -12,31 +15,40 @@ namespace Business.Services.Concrete
             _unitOfWork=unitOfWork;
         }
 
-        public async Task<List<GetAllProductsDto>> GetAllProductsAsync()
+        public async Task<IDataResult<List<GetAllProductsDto>>> GetAllProductsAsync()
         {
             var products = await _unitOfWork.ProductRepository.GetAllAsync();
-            return _mapper.Map<List<GetAllProductsDto>>(products);
-        }
-
-		public async Task<GetProductDto> GetProductById(Guid id)
-		{
-			var product = await _unitOfWork.ProductRepository.GetAsync(p=>p.Id==id);
-            if(product==null)
+            if (products.Count==0)
             {
-                throw new NotFoundException(ExceptionMessages.ProductNotFound);
+                return new ErrorDataResult<List<GetAllProductsDto>>(_mapper.Map<List<GetAllProductsDto>>(products), "Mehsul yoxdur");
             }
-            return _mapper.Map<GetProductDto>(product);
+            return new SuccessDataResult<List<GetAllProductsDto>>(_mapper.Map<List<GetAllProductsDto>>(products), "Mehsullar siyahilandi");
 		}
 
-		public async Task AddProduct(CreateProductDto dto)
+		public async Task<IDataResult<GetProductDto>> GetProductById(Guid id)
+		{
+			var product = await _unitOfWork.ProductRepository.GetAsync(p=>p.Id==id);
+            if(product is null)
+            {
+                return new ErrorDataResult<GetProductDto>(_mapper.Map<GetProductDto>(product), "Mehsul tapilmadi");
+            }
+            return new SuccessDataResult<GetProductDto>(_mapper.Map<GetProductDto>(product), "Mehsul gonderildi");
+		}
+        
+		public async Task<IResult> AddProduct(CreateProductDto dto)
         {
-			var result =_mapper.Map<Product>(dto);
-            result.CreatedAt = DateTime.UtcNow;
-			await _unitOfWork.ProductRepository.AddAsync(result);
-            await _unitOfWork.SaveAsync();
+			var product =_mapper.Map<Product>(dto);
+            product.CreatedAt = DateTime.UtcNow;
+			await _unitOfWork.ProductRepository.AddAsync(product);
+            var result =await _unitOfWork.SaveAsync();
+            if(result==0)
+            {
+                return new ErrorResult("Mehsul elave edilmedi");
+            }
+            return new SuccessResult("Mehsul elave edildi");
         }
 
-        public async Task DeleteProductById(Guid id)
+        public async Task<IResult> DeleteProductById(Guid id)
         {
 			var product = await _unitOfWork.ProductRepository.GetAsync(p => p.Id==id);
 			if (product==null)
@@ -44,11 +56,16 @@ namespace Business.Services.Concrete
 				throw new NotFoundException(ExceptionMessages.ProductNotFound);
 			}
 			_unitOfWork.ProductRepository.Delete(product);
-			await _unitOfWork.SaveAsync();
+			var result =await _unitOfWork.SaveAsync();
+			if (result==0)
+			{
+				return new ErrorResult("Mehsul siline bilmedi");
+			}
+			return new SuccessResult("Mehsul silindi");
 		}
 
 
-        public async Task UpdateProduct(Guid id, UpdateProductDto dto)
+        public async Task<IResult> UpdateProduct(Guid id, UpdateProductDto dto)
         {
 			var product = await _unitOfWork.ProductRepository.GetAsync(p => p.Id==id);
 			if (product==null)
@@ -60,7 +77,12 @@ namespace Business.Services.Concrete
 			product.Price = dto.Price==null ? product.Price : dto.Price;
 			product.UpdatedAt = DateTime.UtcNow;
 			_unitOfWork.ProductRepository.Update(product);
-			await _unitOfWork.SaveAsync();
+			var result =await _unitOfWork.SaveAsync();
+			if (result==0)
+			{
+				return new ErrorResult("Mehsul siline bilmedi");
+			}
+			return new SuccessResult("Mehsul silindi");
 		}
     }
 }

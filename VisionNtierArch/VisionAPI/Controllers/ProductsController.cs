@@ -1,4 +1,7 @@
 ﻿
+using Core.Utilities.Results.Concrete;
+using Microsoft.AspNetCore.Authorization;
+
 namespace VisionAPI.Controllers
 {
     [Route("api/[controller]/[action]")]
@@ -12,33 +15,56 @@ namespace VisionAPI.Controllers
             _service=service;
         }
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAllProducts()
         {
-            return Ok(await _service.GetAllProductsAsync());
+            var result=await _service.GetAllProductsAsync();
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest();
         }
         [HttpGet]
         public async Task<IActionResult> GetProductById(Guid id)
         {
-            return Ok(await _service.GetProductById(id));
+            var result = await _service.GetProductById(id);
+			if (result.Success)
+			{
+				return Ok(result);
+			}
+			return BadRequest();
         }
         [HttpPost]
         public async Task<IActionResult> AddProduct(CreateProductDto dto)
         {
-            await _service.AddProduct(dto);
-            return Ok();
-        }
+           var result= await _service.AddProduct(dto);
+			if (result.Success)
+			{
+				return Ok(result);
+			}
+			return BadRequest();
+		}
         [HttpDelete]
         public async Task<IActionResult> DeleteProduct(Guid id)
         {
-            _service.DeleteProductById(id);
-            return Ok();
-        }
+            var result=await _service.DeleteProductById(id);
+			if(result.Success)
+			{
+				return Ok(result);
+			}
+			return BadRequest();
+		}
 
         [HttpPut]
         public async Task<IActionResult> UpdateProduct(Guid id, UpdateProductDto dto)
         {
-           await _service.UpdateProduct(id, dto);
-            return Ok();
-        }
+           var result=await _service.UpdateProduct(id, dto);
+			if (result.Success)
+			{
+				return Ok(result);
+			}
+			return BadRequest();
+		}
     }
 }

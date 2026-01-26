@@ -1,9 +1,12 @@
-﻿namespace Entities.DTOs.Products
+﻿using Microsoft.AspNetCore.Http;
+
+namespace Entities.DTOs.Products
 {
     public class CreateProductDto:IDto
     {
 		public string Name { get; set; }
 		public string Description { get; set; }
 		public decimal Price { get; set; }
+		public IFormFile ImageUrl { get; set; }
 	}
 }
